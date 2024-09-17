@@ -1,4 +1,4 @@
-# Desafio-Criando-um-site-bancário
+# Desafio-Criando-um-sistema-bancário
 Sistema bancário com funções de sacar, depositar e visualizar extrato.
 
 ## Desafio
